@@ -471,4 +471,4 @@ During our analysis we needed to clean the data performing the following tasks:
 
 The issues mentioned could have affected the intrgity of this analysis, and we recommend looking into the source of the these problems.
 
-[Kaggle Notebook](https://www.kaggle.com/bayodeolorundare/divvy-exercise-case-study-python) // [Tableau Viz](https://public.tableau.com/app/profile/bayode.olorundare/viz/CasestudyCyclingridertrends/DayofWeekBreakdown) // [Looker Datastudio](https://lookerstudio.google.com/u/0/reporting/e2a64c12-36f6-4879-8441-9cd67f9f9bfc/page/tEnnC) // [R Repository](https://github.com/BayodeOlorundare/Divvy-Exercise-Case-study)
+[Kaggle Notebook](https://www.kaggle.com/code/bayodeolorundare/divvy-exercise-case-study-python/notebook) // [Tableau Viz](https://public.tableau.com/app/profile/bayode.olorundare/viz/CasestudyCyclingridertrends/DayofWeekBreakdown) // [Looker Datastudio](https://lookerstudio.google.com/u/0/reporting/e2a64c12-36f6-4879-8441-9cd67f9f9bfc/page/tEnnC) // [R Repository](https://github.com/BayodeOlorundare/Divvy-Exercise-Case-study)
